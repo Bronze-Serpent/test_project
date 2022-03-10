@@ -1,1 +1,2 @@
 There is some class
+and another one
